@@ -1,0 +1,3 @@
+transactions = []
+balance = 0
+    
